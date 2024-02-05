@@ -1,4 +1,3 @@
-```markdown
 ## Freemarker. Rest assured. API automation. Carina.
 
 ### Task Title: Create 4 tests for [https://dummyjson.com](https://dummyjson.com). Use FreeMarker for at least 2 tests and validate your responses.
